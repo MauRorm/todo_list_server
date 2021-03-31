@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "user",
+      "password": "pass"
+    }
+  ],
+  "userProfile": [
+    {
+      "id": 1,
+      "userfullName": "Mauricio miguel Romero",
+      "urlToHome": "/home"
+    }
+  ],
+  "todo": [
+    {
+      "id": "a5669cf1-866e-4e9c-949e-fc6454238e3e",
+      "title": "titulo 1",
+      "message": "mensaje 1"
+    },
+    {
+      "id": "8c94cfe4-2abe-49dd-a497-1db6bd058c12",
+      "title": "titulo 3",
+      "message": "oijdoiwjdjwoiejjjfwjjfiwjfoijrefjerfijerijgerijgreijger"
+    }
+  ]
+}
